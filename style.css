@@ -15,8 +15,16 @@ h1{
   font-size: 30px;
 }
 
+h2{
+  font-size: 15px;
+  font-family: Arial;
+  background-color: #73dfff;
+  width: 400px;
+  margin: auto;
+}
+
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+  background-image: url("https://www.shutterstock.com/image-photo/sunlight-shining-the-surface-under-260nw-2327309483.jpg");
   background-size: 600px 400px;
   border-radius: 300px;
   border: 5px solid white;
